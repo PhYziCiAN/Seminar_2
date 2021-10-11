@@ -9,3 +9,12 @@ Hello, world !!!
 # Header 1
 
 ## Header2
+
+~some text
+
+=some text
+
+
+
+
+
