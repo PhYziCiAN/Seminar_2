@@ -10,7 +10,7 @@ Hello, world !!!
 
 ## Header2
 
-    ~some text~
+~~some_text~~
 
 some text
 =========
