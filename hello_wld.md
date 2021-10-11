@@ -10,9 +10,15 @@ Hello, world !!!
 
 ## Header2
 
-~some text
+    ~some text~
 
-=some text
+some text
+=========
+
+yet
+----
+
+
 
 
 
